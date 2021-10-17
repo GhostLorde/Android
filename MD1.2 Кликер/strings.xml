@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clicker</string>
+    <string name="click_me">Нажми на меня!</string>
+    <string name="click_me1">Сделай счет меньше!</string>
+    <string name="click_me2">Сбросить счет!!!</string>
+
+</resources>
